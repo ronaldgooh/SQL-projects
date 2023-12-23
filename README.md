@@ -14,4 +14,4 @@ Data analysis is fundamental to informed decision-making, and SQL offers a robus
 ## Projects
 
 1. **Bike Sales**
-   - [COVID-19]([https://github.com/ronaldgooh/sql-projects/blob/main/Bike_Sales_Analysis.sql](https://github.com/ronaldgooh/SQL-projects/blob/main/SQL%20Data%20Exploration-%20covid19/Data%20Exploration%20-%20COVID19.sql)): This project concentrates on analyzing bike sales data, focusing on key metrics such as average income, age, and commute distance. Explore the SQL queries and visualizations to gain valuable insights into the relationships between these critical factors.
+   - [COVID-19](https://github.com/ronaldgooh/SQL-projects/blob/main/SQL%20Data%20Exploration-%20covid19/Data%20Exploration%20-%20COVID19.sql): This project concentrates on analyzing bike sales data, focusing on key metrics such as average income, age, and commute distance. Explore the SQL queries and visualizations to gain valuable insights into the relationships between these critical factors.
